@@ -1,0 +1,38 @@
+﻿  ViewLayer.cpp
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ServiceLayer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\Habit.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\Times.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\Event.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\Pomodoro.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\DateRecord.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\DBLayer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“ViewLayer.cpp”)
+  
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(41,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(93,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(101,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(84,54): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(323,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(346,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(350,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(354,25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(382,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(391,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(768,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\new_Habit\ViewLayer.cpp(769,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  new_Habit.vcxproj -> D:\project\My\new_Habit\Habit_v4.0\Habit_v4.0\x64\Debug\new_Habit.exe
